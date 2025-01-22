@@ -7,3 +7,16 @@ or two. ;)
 
 Due to unique circumstances, this project will be somewhat rushed, however, I still want
 to make it look good, as I am a perfectionist.
+
+### Tasks checklist:
+- [X] ‎0. ReadMe
+- [X] ‎1. DocType and Language
+- [ ] ‎2. Title
+- [ ] ‎3. Links and Favicons
+- [ ] ‎4. Metadata and SEO!
+- [ ] ‎5. About You! Part 1
+- [ ] ‎6. About You! Part 2
+- [ ] ‎7. About Me! Part 3
+
+
+- [ ] ‎Everything Done
