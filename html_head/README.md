@@ -12,7 +12,7 @@ to make it look good, as I am a perfectionist.
 - [X] ‎0. ReadMe
 - [X] ‎1. DocType and Language
 - [X] ‎2. Title
-- [ ] ‎3. Links and Favicons
+- [X] ‎3. Links and Favicons
 - [ ] ‎4. Metadata and SEO!
 - [ ] ‎5. About You! Part 1
 - [ ] ‎6. About You! Part 2
