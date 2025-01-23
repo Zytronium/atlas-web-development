@@ -9,6 +9,7 @@ Due to unique circumstances, this project will be somewhat rushed, however, I st
 to make it look good, as I am a perfectionist.
 
 ### Tasks checklist:
+[//]: # ("‎" comes before every number because otherwise the numbers will be formatted like "i, ii, iii, iv, etc." instead of "1, 2, 3, 4, etc.")
 - [X] ‎0. ReadMe
 - [X] ‎1. DocType and Language
 - [X] ‎2. Title

@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
     <title>About Me! - Home</title>
+    <link rel="stylesheet" href="css/style.css">
     <!-- Favicon for most browsers -->
     <link rel="icon" type="image/x-icon"
-          href="images/favicon.ico" >
+          href="images/favicon.ico">
     <link rel="icon" type="image/png" sizes="32x32"
           href="images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16"
@@ -12,12 +13,77 @@
     <!-- Favicon for legacy browsers -->
     <link rel="shortcut icon" href="images/favicon.ico">
     <meta charset="UTF-8">
-    <meta name="description" content="This is my first project for Atlas School Full-Stack Web Development in T3. It is actually not my first website.">
-    <meta name="keywords" content="About Me, Daniel, Zytronium, Atlas, Full-Stack, Web Dev, T3, programming, HTML, CSS, Javascript, First project">
+    <meta name="description"
+          content="This is my first project for Atlas School Full-Stack Web Development in T3. It is actually not my first website.">
+    <meta name="keywords"
+          content="About Me, Daniel, Zytronium, Atlas, Full-Stack, Web Dev, T3, programming, HTML, CSS, Javascript, First project">
     <meta name="author" content="Daniel Stelljes">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+<h1>About Me</h1>
+<h2>Daniel Stelljes</h2>
+<h3>(aka, "Zytronium")</h3>
+<p>
+    Hi, I'm Daniel. I have many interests, including web development. In the
+    past, I've been less interested in web development than other programming
+    fields. However, recently, I've been more interested in web development. For
+    many years, I've been pretty skilled at using inspect page, and even created
+    a very basic website once using just inspect page by deleting every element
+    on the website, adding a background gradient, and adding some text. Click
+    the button below to simulate a re-creation of the inspect-page website.
+</p>
+<button onclick="inspectPageSim()">Simulate It</button>
 
+<script>
+    // Notice: I had this function AI generated to save time. https://chatgpt.com/share/67918617-bdac-8009-ae8b-8b864f9ed53e
+    function inspectPageSim() {
+        const body = document.body;
+        const elements = [...body.children];
+
+        // Remove elements one by one with a delay
+        elements.forEach((element, index) => {
+            setTimeout(() => {
+                element.remove();
+            }, index * 250); // 1/4 second delay
+        });
+
+        // After all elements are removed
+        setTimeout(() => {
+            // Add a linear gradient as background
+            body.style.backgroundImage = "linear-gradient(5deg, rgb(66 143 255), #3bafff)";
+            body.style.backgroundSize = "cover";
+            body.style.color = "white";
+            body.style.fontFamily = "Arial, sans-serif";
+            body.style.textAlign = "center";
+
+            // Add a new <p> element
+            const message = document.createElement("p");
+            message.textContent = "Never gonna give you up!";
+            message.style.fontSize = "2rem";
+            body.appendChild(message);
+
+            // Wait 4 seconds and then display the image full-screen
+            setTimeout(() => {
+                const image = document.createElement("img");
+                image.src = "images/bsod.png";
+                image.id = "bsod";
+                body.appendChild(image);
+                image.style.display = "block";
+
+                // Hide the cursor
+                body.style.cursor = "none";
+            }, 4000);
+        }, elements.length * 250);
+    }
+</script>
+
+<footer>
+    <p>©2025 Daniel Stelljes. All rights reserved. | <a
+            href="https://www.linkedin.com/in/daniel-stelljes-2b9669233/">LinkIn</a>
+        | <a href="https://github.com/zytronium">GitHub</a> | <a
+                href="https://www.youtube.com/@Zytron">YouTube</a> | <a
+                href="https://discord.gg/nMXxW5xVM4">Discord</a></p>
+</footer>
 </body>
 </html>
