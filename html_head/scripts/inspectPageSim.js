@@ -18,6 +18,7 @@ function inspectPageSim() {
         message.style.fontSize = "2rem";
         body.style.textAlign = "center";
         body.appendChild(message);
+        body.style.height = "auto";
 
         // Wait half a second before setting the text content
         setTimeout(() => {
