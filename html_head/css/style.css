@@ -76,6 +76,34 @@ li {
     padding: 0 20px;
 }
 
+.navbar {
+    background-color: cadetblue;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 3.14159265358979323846264338327950288419rem;
+}
+
+.navbar a, .navbar p{
+    font-size: 20px;
+    margin: 15px 0;
+    color: lightcyan;
+}
+
+.navbar p {
+    color: lightblue !important;
+}
+
+figure img {
+    width: 90%;
+}
+
+figure figcaption {
+    color: dimgray;
+}
+
 footer {
     margin: 0;
     background-color: rgba(210, 210, 210, 0.65);
@@ -88,7 +116,9 @@ footer a{
 }
 
 button {
-    border-radius: 15px;
+    background-color: midnightblue;
+    color: white;
+    border-radius: 20px;
     padding: 10px;
     border-style: groove;
 }
