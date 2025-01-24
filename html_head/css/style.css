@@ -96,12 +96,22 @@ li {
     color: lightblue !important;
 }
 
-figure img {
-    width: 90%;
+figure img, figure video {
+    width: 85%;
+}
+
+figure .square-img {
+    width: 50%;
+}
+
+figure .vertical {
+    width: auto;
+    height: 40rem;
 }
 
 figure figcaption {
     color: dimgray;
+    margin-bottom: 3rem;
 }
 
 footer {
