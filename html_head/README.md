@@ -15,7 +15,7 @@ want to make it look good, as I am a perfectionist.
 - [X] ‎2. Title
 - [X] ‎3. Links and Favicons
 - [X] ‎4. Metadata and SEO!
-- [ ] ‎5. About You! Part 1
+- [X] ‎5. About You! Part 1
 - [ ] ‎6. About You! Part 2
 - [ ] ‎7. About Me! Part 3
 
