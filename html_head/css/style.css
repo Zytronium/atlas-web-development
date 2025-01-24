@@ -12,6 +12,12 @@ p {
     justify-content: center;
 }
 
+h6 {
+    margin-top: 0;
+    padding-top: 0;
+    color: dimgray;
+}
+
 #video-source {
     position: absolute;
     bottom: 0;
