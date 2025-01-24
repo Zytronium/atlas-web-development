@@ -1,9 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-image: linear-gradient(135deg, rgb(191, 231, 212), rgb(172, 203, 219));
+    background-image: linear-gradient(90deg, rgb(191, 231, 212), rgb(172, 203, 219));
     margin: 0;
-    background-repeat: no-repeat;
 
 }
 
