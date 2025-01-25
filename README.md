@@ -35,9 +35,15 @@ there.
 
 ---
 # Projects:
-- ### `WD1000` (?)
+- ### `WW1000`
     - **[HTML Head Tag](html_head)**
     - ***[HTML Advanced (Max's Version)](html_advanced)***
+    - *[Developer tools]()*
+    - *[CSS Advanced (Max's Version)]()*
+- ### `WW1100`
+  - *[Designer Language - Research (Max's Version)]()*
+  - *[Sass & Scss]()*
+  - *[Flexbox]()*
 ---
 ###### <sup><sub>There's something really satisfying about a ReadMe like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
 
