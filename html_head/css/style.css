@@ -17,7 +17,10 @@ h6 {
     color: dimgray;
 }
 
-li {
+ul {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
     list-style: none;
 }
 
@@ -76,6 +79,55 @@ li {
     padding: 0 20px;
 }
 
+#back-to-top {
+    position: fixed;
+    bottom: -4rem;
+    right: 2rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.125s ease;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+#back-to-top:hover {
+    background-color: #55e4ff;
+    transform: scale(1.125);
+    transition: transform 0.125s ease;
+}
+
+/* Animation for flying in */
+@keyframes flyIn {
+    from {
+        bottom: -4rem; /* Below the screen */
+        opacity: 0;
+    }
+    to {
+        bottom: 2rem; /* Final position */
+        opacity: 1;
+    }
+}
+
+/* Animation for flying out */
+@keyframes flyOut {
+    from {
+        bottom: 2rem; /* Current position */
+        opacity: 1;
+    }
+    to {
+        bottom: -4rem; /* Below the screen */
+        opacity: 0;
+    }
+}
+
+
 .navbar {
     background-color: cadetblue;
     display: flex;
@@ -96,9 +148,36 @@ li {
     color: lightblue !important;
 }
 
+.navbar a:hover {
+    color: aqua !important;
+}
+
+.navbar a:active {
+    color: darkturquoise !important;
+}
+
 figure img, figure video {
     width: 85%;
+    border-radius: 20px;
+    transition: transform 0.125s ease-in-out;
 }
+figure img + figcaption,
+figure video + figcaption {
+    transition: margin-top 0.125s ease-in-out;
+}
+
+figure img:hover + figcaption,
+figure video:hover + figcaption {
+    margin-top: 1.25rem;
+    transition: margin-top 0.125s ease-in-out;
+}
+
+figure img:hover,
+figure video:hover {
+    transition: transform 0.125s ease-in-out;
+    transform: scale(1.0625);
+}
+
 
 figure .square-img {
     width: 50%;
@@ -131,4 +210,11 @@ button {
     border-radius: 20px;
     padding: 10px;
     border-style: groove;
+    transition: transform 0.125s ease-in-out;
+}
+
+button:hover {
+    background-color: #14145a;
+    transform: scale(1.0625);
+    transition: transform 0.125s ease-in-out;
 }
