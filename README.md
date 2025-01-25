@@ -26,10 +26,18 @@ Projects are in chronological order, and are separated by courses, but not by sp
 </details>
 
 ---
+
+All projects that are applicable will be hosted on GitHub pages. If you are
+viewing this readme from GitHub Pages, click ony the project links below to
+visit each project's website on GitHub Pages. If you are not viewing this from
+Pages, [Click Here](https://zytronium.github.io/atlas-web-development/) to go
+there.
+
+---
 # Projects:
 - ### `WD1000` (?)
-    - ***[HTML Head Tag](html_head)***
-
+    - **[HTML Head Tag](html_head)**
+    - ***[HTML Advanced (Max's Version)](html_advanced)***
 ---
 ###### <sup><sub>There's something really satisfying about a ReadMe like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
 - - -

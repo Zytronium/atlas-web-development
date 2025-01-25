@@ -8,6 +8,8 @@ project plan is only HTML and CSS. The website will contain information about me
 Due to unique circumstances, this project will be somewhat rushed; however, I still
 want to make it look good, as I am a perfectionist.
 
+[Click Here](https://zytronium.github.io/atlas-web-development/html_head/) to view on GitHub Pages
+
 ### Tasks checklist:
 [//]: # ("‎" comes before every number because otherwise the numbers will be formatted like "i, ii, iii, iv, etc." instead of "1, 2, 3, 4, etc.")
 - [X] ‎0. ReadMe
@@ -20,4 +22,7 @@ want to make it look good, as I am a perfectionist.
 - [X] ‎7. About Me! Part 3
 
 
-- [X] ‎Everything Done
+- [X] _‎8. Stretch Goal: Host to Pages! (Advanced)_
+
+
+- [X] **‎Everything Done ✓**
