@@ -40,4 +40,5 @@ there.
     - ***[HTML Advanced (Max's Version)](html_advanced)***
 ---
 ###### <sup><sub>There's something really satisfying about a ReadMe like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
-- - -
+
+---
