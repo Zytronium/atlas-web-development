@@ -52,6 +52,12 @@ function inspectPageSim() {
                         // Hide the cursor starting at a certain point in the video
                         setTimeout(() => {
                             body.style.cursor = "none";
+
+                            // Give the cursor back when the video ends
+                            video.addEventListener("ended", () => {
+                                body.style.cursor = "auto";
+                            })
+
                         }, 3500);
                     }, 3000);
                 }, 500);
