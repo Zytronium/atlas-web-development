@@ -13,8 +13,8 @@ This is what this project is replicating exactly, but just the HTML of it—no s
 ### Tasks checklist:
 [//]: # ("‎" comes before every number because otherwise the numbers will be formatted like "i, ii, iii, iv, etc." instead of "1, 2, 3, 4, etc.")
 - [X] ‎0. README and objectives!
-- [ ] ‎1. Header
-- [ ] ‎2. Banner
+- [X] ‎1. Header
+- [X] ‎2. Banner
 - [ ] ‎3. Quote
 - [ ] ‎4. Videos
 - [ ] ‎5. Membership
