@@ -15,7 +15,7 @@ This is what this project is replicating exactly, but just the HTML of it—no s
 - [X] ‎0. README and objectives!
 - [X] ‎1. Header
 - [X] ‎2. Banner
-- [ ] ‎3. Quote
+- [X] ‎3. Quote
 - [ ] ‎4. Videos
 - [ ] ‎5. Membership
 - [ ] ‎6. FAQ
