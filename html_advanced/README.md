@@ -16,7 +16,7 @@ This is what this project is replicating exactly, but just the HTML of it—no s
 - [X] ‎1. Header
 - [X] ‎2. Banner
 - [X] ‎3. Quote
-- [ ] ‎4. Videos
+- [X] ‎4. Videos
 - [ ] ‎5. Membership
 - [ ] ‎6. FAQ
 - [ ] ‎7. Footer
