@@ -19,6 +19,6 @@ This is what this project is replicating exactly, but just the HTML of it—no s
 - [X] ‎4. Videos
 - [X] ‎5. Membership
 - [X] ‎6. FAQ
-- [ ] ‎7. Footer
+- [X] ‎7. Footer
 
-- [ ] **‎Everything Done ✓**
+- [X] **‎Everything Done ✓**
