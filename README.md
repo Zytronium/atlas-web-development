@@ -29,16 +29,16 @@ Projects are in chronological order, and are separated by courses, but not by sp
 
 All projects that are applicable will be hosted on GitHub pages. If you are
 viewing this readme from GitHub Pages, click on the project links below to
-visit each project's website on GitHub Pages. If you are not viewing this from
-Pages, [Click Here](https://zytronium.github.io/atlas-web-development/) to go
-there.
+visit each project's website on GitHub Pages, if it is a website. If you are
+not viewing this from Pages,
+[Click Here](https://zytronium.github.io/atlas-web-development/) to go there.
 
 ---
 # Projects:
 - ### `WW1000`
     - **[HTML Head Tag](html_head)**
-    - ***[HTML Advanced (Max's Version)](html_advanced)***
-    - *[Developer tools]()*
+    - **[HTML Advanced (Max's Version)](html_advanced)**
+    - ***[Developer tools](https://github.com/Zytronium/atlas-web_front_end/tree/master/developer_tools)***
     - *[CSS Advanced (Max's Version)]()*
 - ### `WW1100`
   - *[Designer Language - Research (Max's Version)]()*
