@@ -8,6 +8,7 @@ The designer file is available on Figma [here](https://www.figma.com/file/XrEAsu
 This is what this project is replicating exactly, but just the HTML and CSS,
 continuing from the last project, which replicated just the HTML.
 
+Visit the website [here](https://zytronium.github.io/atlas-web-development/css_advanced/).
 
 ---
 
@@ -15,8 +16,8 @@ continuing from the last project, which replicated just the HTML.
 [//]: # ("​" comes before every number because otherwise the
 numbers will be formatted like "i, ii, iii, iv, etc." instead
 of "1, 2, 3, 4, etc." "​" is a zero-width space)
-- [ ] ​0. README and objectives!
-- [ ] ​1. Import the style
+- [X] ​0. README and objectives!
+- [X] ​1. Import the style
 - [ ] ​2. Header and Banner
 - [ ] ​3. Quotes
 - [ ] ​4. Videos list

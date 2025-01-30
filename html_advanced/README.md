@@ -8,6 +8,8 @@ The designer file will be available on Figma [here](https://www.figma.com/file/X
 
 This is what this project is replicating exactly, but just the HTML of it—no styling.
 
+Visit the website [here](https://zytronium.github.io/atlas-web-development/html_advanced/).
+
 ---
 
 ### Tasks checklist:
