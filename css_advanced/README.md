@@ -1,6 +1,12 @@
 # CSS Advanced
 
-WIP Readme
+This and future projects are implementing, from scratch, a webpage from a
+designer file. The last project was the HTML only. This project is the CSS.
+
+The designer file is available on Figma [here](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage).
+
+This is what this project is replicating exactly, but just the HTML and CSS,
+continuing from the last project, which replicated just the HTML.
 
 
 ---

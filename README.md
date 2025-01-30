@@ -23,6 +23,7 @@ a good video I uploaded that you should watch: https://www.youtube.com/watch?v=p
         - *[Project part 3 (unstarted)]()*
 
 Projects are in chronological order, and are separated by courses, but not by sprints.
+
 </details>
 
 ---
@@ -39,7 +40,7 @@ not viewing this from Pages,
     - **[HTML Head Tag](html_head)**
     - **[HTML Advanced (Max's Version)](html_advanced)**
     - **[Developer tools](https://github.com/Zytronium/atlas-web_front_end/tree/master/developer_tools)**
-    - *[CSS Advanced (Max's Version)]()*
+    - ***[CSS Advanced (Max's Version)](css_advanced)***
 - ### `WW1100`
   - *[Designer Language - Research (Max's Version)]()*
   - *[Sass & Scss]()*

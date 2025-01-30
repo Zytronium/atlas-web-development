@@ -4,7 +4,7 @@ This and future projects are implementing, from scratch, a webpage from a
 designer file. This first project will focus on the HTML structure only. No CSS
 or JavaScript.
 
-The designer file will be available on Figma [here](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage)
+The designer file will be available on Figma [here](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage).
 
 This is what this project is replicating exactly, but just the HTML of it—no styling.
 
