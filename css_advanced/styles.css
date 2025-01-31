@@ -85,7 +85,6 @@ nav a {
     border-radius: 100%;
     width: 150px;
     height: 150px;
-
 }
 
 #pros {
@@ -117,6 +116,7 @@ nav a {
     font-style: italic;
     padding: 0;
     margin: 2px 0 0 0;
+    line-height: 24px;
 }
 
 #pros div h3, #pros div p {
@@ -129,6 +129,7 @@ nav a {
     display: flex;
     justify-content: center;
     font-size: 22px;
+    line-height: 33.6px;
 }
 
 #testimonials .author {
@@ -143,7 +144,7 @@ nav a {
 #testimonials-container {
     display: flex;
     flex-direction: row;
-    margin: 108px 0 124px 260px;
+    margin: 108px 247px 124px 260px;
 }
 
 #testimonials-container img {
