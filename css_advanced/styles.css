@@ -26,11 +26,15 @@ h1 {
     font-size: 120px;
     font-weight: bold;
     margin-bottom: 0;
+    margin-top: 154px;
 }
-h2 {
+
+header h2 {
     text-align: center;
     font-weight: 300;
     font-size: 32px;
+    margin-top: 168px;
+    margin-bottom: 87px;
 }
 
 button {
@@ -53,7 +57,8 @@ button {
     flex-direction: row;
     gap: 61px;
     justify-content: center;
-    margin-top: 0;
+    margin-top: -25px;
+    margin-bottom: 19px;
 
 }
 
@@ -62,6 +67,7 @@ button {
     justify-content: center;
     gap: 702px;
     padding-top: 35px;
+    margin-bottom: -5px;
 }
 nav {
     display: flex;
@@ -73,6 +79,55 @@ nav a {
     font-weight: bold;
     text-decoration: none;
     font-size: 12px;
+}
+
+.avatar {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+
+}
+
+#pros {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: center;
+    justify-content: center;
+    gap: 131px;
+}
+
+#pros div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 150px;
+    margin-bottom: 98px;
+}
+
+#pros div .name {
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: 18px;
+}
+
+#pros div .sub-title {
+    font-size: 16px;
+    font-style: italic;
+    padding: 0;
+    margin: 2px 0 0 0;
+}
+
+#pros div h3, #pros div p {
+    margin: 5px;
+}
+
+#testimonials {
+    background-color: var(--accent-color);
+    color: white;
+    display: flex;
+    justify-content: center;
 }
 
 /* light */
@@ -102,7 +157,4 @@ nav a {
     font-family: 'Source Sans Pro';
     src: url('fonts/SourceSansPro-Bold.otf');
     font-weight: 600;
-}
-#testimonials {
-    background-color: var(--accent-color);
 }
