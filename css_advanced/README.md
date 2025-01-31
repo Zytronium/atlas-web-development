@@ -24,7 +24,7 @@ of "1, 2, 3, 4, etc." "​" is a zero-width space)
 - [ ] ​5. Membership
 - [ ] ​6. FAQ
 - [ ] ​7. Footer
-- [ ] ​8. Make it Live!
+- [X] ​8. Make it Live!
 
 
 - [ ] **Everything Done ✓**

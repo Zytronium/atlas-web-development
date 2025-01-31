@@ -1,0 +1,108 @@
+:root {
+    --accent-color: #C271FF;
+}
+
+/* Not sure why I need this, but if I don't, stuff doesn't look right */
+body {
+    margin: 0;
+}
+
+* {
+    font-family: 'Source Sans Pro', source-sans-pro, sans-serif;
+}
+
+header {
+    background-image: url('images/pic_1.jpg');
+    background-size: cover;
+    color: white;
+}
+
+strong {
+    color: var(--accent-color);
+}
+
+h1 {
+    text-align: center;
+    font-size: 120px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+h2 {
+    text-align: center;
+    font-weight: 300;
+    font-size: 32px;
+}
+
+button {
+    border: none;
+    font-weight: 500;
+    font-size: 14px;
+    display: block;
+    margin: 0 auto;
+    color: white;
+    width: 162px;
+    height: 44px;
+    border-radius: 22px;
+    background-color: var(--accent-color);
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.three-words {
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    gap: 61px;
+    justify-content: center;
+    margin-top: 0;
+
+}
+
+#nav-bar {
+    display: flex;
+    justify-content: center;
+    gap: 702px;
+    padding-top: 35px;
+}
+nav {
+    display: flex;
+    gap: 53px
+}
+
+nav a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+/* light */
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Light.otf');
+    font-weight: 300;
+}
+
+/* normal */
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Regular.otf');
+    font-weight: normal;
+}
+
+/* semibold */
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Semibold.otf');
+    font-weight: 500;
+}
+
+
+/* bold */
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Bold.otf');
+    font-weight: 600;
+}
+#testimonials {
+    background-color: var(--accent-color);
+}
