@@ -128,6 +128,49 @@ nav a {
     color: white;
     display: flex;
     justify-content: center;
+    font-size: 22px;
+}
+
+#testimonials .author {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#testimonials .sub-title {
+    font-style: italic;
+}
+
+#testimonials-container {
+    display: flex;
+    flex-direction: row;
+    margin: 108px 0 124px 260px;
+}
+
+#testimonials-container img {
+    margin-right: 53px;
+}
+
+#testimonials-text {
+    display: flex;
+    flex-direction: column;
+    max-height: 150px;
+}
+
+#testimonials-text * {
+    margin-left: 0;
+}
+
+#testimonials-text blockquote {
+    margin-bottom: 11px;
+}
+
+#testimonials-text .author {
+    margin-top: 11px;
+    margin-bottom: 0;
+}
+
+#testimonials-text .sub-title {
+    margin-top: 0;
 }
 
 /* light */
