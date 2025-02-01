@@ -69,6 +69,7 @@ button {
     padding-top: 35px;
     margin-bottom: -5px;
 }
+
 nav {
     display: flex;
     gap: 53px
@@ -111,9 +112,13 @@ nav a {
     font-size: 18px;
 }
 
+.sub-title {
+    font-weight: 300;
+    font-style: italic;
+}
+
 #pros div .sub-title {
     font-size: 16px;
-    font-style: italic;
     padding: 0;
     margin: 2px 0 0 0;
     line-height: 24px;
@@ -132,19 +137,24 @@ nav a {
     line-height: 33.6px;
 }
 
+#testimonials img {
+    width: 160px !important;
+    height: 160px !important;
+}
+
 #testimonials .author {
     font-weight: bold;
     font-size: 22px;
 }
 
 #testimonials .sub-title {
-    font-style: italic;
+    margin-top: 0;
 }
 
 #testimonials-container {
     display: flex;
     flex-direction: row;
-    margin: 108px 247px 124px 260px;
+    margin: 108px 237px 124px 260px;
 }
 
 #testimonials-container img {
@@ -154,24 +164,25 @@ nav a {
 #testimonials-text {
     display: flex;
     flex-direction: column;
-    max-height: 150px;
+    width: 730px;
+    height: 158px;
+    padding: 0;
+    margin: 0;
 }
 
 #testimonials-text * {
     margin-left: 0;
+    margin-right: 0;
 }
 
-#testimonials-text blockquote {
+#testimonials-text .quote {
+    margin-top: 0;
     margin-bottom: 11px;
 }
 
 #testimonials-text .author {
     margin-top: 11px;
     margin-bottom: 0;
-}
-
-#testimonials-text .sub-title {
-    margin-top: 0;
 }
 
 /* light */
