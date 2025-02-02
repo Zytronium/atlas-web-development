@@ -194,13 +194,30 @@ nav a {
 
 /* Videos */
 
-.play_btn_img {
-    z-index: 1;
-    width: 64px;
+/* In at least one browser (WebStorm's HTML preview thing), the background defaults
+   to light grey instead of white if not set. */
+#videos {
+    background-color: white;
 }
 
 .video-thumbnail {
     width: 255px;
+    border-radius: 5px 5px 0 0; /* Technically not needed since the image provided already has rounded corners on top */
+}
+
+/* Currently unable to get this working. */
+.video-thumbnail::after {
+     content: "";
+     background: url("images/play.png") no-repeat center;
+     background-size: 64px 64px;
+     width: 64px;
+     height: 64px;
+     z-index: 1;
+ }
+
+.profile-pic {
+    width: 30px;
+    border-radius: 100%;
 }
 
 /* Fonts */
