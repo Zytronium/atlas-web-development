@@ -1,3 +1,5 @@
+/* Everything CSS */
+
 :root {
     --accent-color: #C271FF;
 }
@@ -51,24 +53,7 @@ button {
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
 }
 
-.three-words {
-    font-weight: 600;
-    display: flex;
-    flex-direction: row;
-    gap: 61px;
-    justify-content: center;
-    margin-top: -25px;
-    margin-bottom: 19px;
-
-}
-
-#nav-bar {
-    display: flex;
-    justify-content: center;
-    gap: 702px;
-    padding-top: 35px;
-    margin-bottom: -5px;
-}
+/* Header and Banner CSS */
 
 nav {
     display: flex;
@@ -80,6 +65,25 @@ nav a {
     font-weight: bold;
     text-decoration: none;
     font-size: 12px;
+}
+
+#nav-bar {
+    display: flex;
+    justify-content: center;
+    gap: 702px;
+    padding-top: 35px;
+    margin-bottom: -5px;
+}
+
+.three-words {
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    gap: 61px;
+    justify-content: center;
+    margin-top: -25px;
+    margin-bottom: 19px;
+
 }
 
 .avatar {
@@ -112,6 +116,7 @@ nav a {
     font-size: 18px;
 }
 
+/* This applies to the Pros subtitles AND the Quotes subtitle */
 .sub-title {
     font-weight: 300;
     font-style: italic;
@@ -127,6 +132,8 @@ nav a {
 #pros div h3, #pros div p {
     margin: 5px;
 }
+
+/* Quotes CSS */
 
 #testimonials {
     background-color: var(--accent-color);
@@ -184,6 +191,19 @@ nav a {
     margin-top: 11px;
     margin-bottom: 0;
 }
+
+/* Videos */
+
+.play_btn_img {
+    z-index: 1;
+    width: 64px;
+}
+
+.video-thumbnail {
+    width: 255px;
+}
+
+/* Fonts */
 
 /* light */
 @font-face {
