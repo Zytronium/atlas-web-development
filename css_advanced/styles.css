@@ -67,6 +67,12 @@ nav a {
     font-size: 12px;
 }
 
+/* In at least one browser (WebStorm's HTML preview thing), the
+   background defaults to light gray instead of white if not set. */
+main {
+    background-color: white;
+}
+
 #nav-bar {
     display: flex;
     justify-content: center;
@@ -194,10 +200,9 @@ nav a {
 
 /* Videos */
 
-/* In at least one browser (WebStorm's HTML preview thing), the background defaults
-   to light grey instead of white if not set. */
-#videos {
-    background-color: white;
+#videos h1 {
+    font-size: 32px;
+    font-weight: 300;
 }
 
 .video-thumbnail {
