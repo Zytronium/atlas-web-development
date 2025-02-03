@@ -2,6 +2,8 @@
 
 :root {
     --accent-color: #C271FF;
+    --secondary-color: #071629;
+    --text-secondary-color: rgba(7, 22, 41, 0.5);
 }
 
 /* Not sure why I need this, but if I don't, stuff doesn't look right */
@@ -255,7 +257,7 @@ header h2 {
     margin-top: 7.5px;
     margin-bottom: 5px;
     font-size: 14px;
-    color: rgba(7, 22, 41, 0.5);
+    color: var(--text-secondary-color);
     line-height: 24px;
 }
 
@@ -332,7 +334,7 @@ header h2 {
 /* Membership CSS */
 
 #membership {
-    background-color: #071629;
+    background-color: var(--secondary-color);
     color: white;
 }
 
@@ -384,6 +386,49 @@ header h2 {
 
 #membership button {
     margin-bottom: 52px;
+}
+
+/* F.A.Q. CSS */
+
+#faq {
+    margin: 67px 271px 84px 249px;
+}
+
+#faq h1 {
+    font-size: 60px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0 377px 74px 407px;
+}
+
+#faq-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* IDK how this works, I just used autocomplete and it worked */
+    gap: 220px;
+    height: 558px;
+}
+
+#faq-grid h2 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#faq-grid p {
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-secondary-color);
+}
+
+.item {
+    margin-bottom: 74px;
+}
+
+/* Footer CSS */
+
+footer {
+    background-color: var(--secondary-color);
 }
 
 /* Fonts */
