@@ -40,7 +40,7 @@ not viewing this from Pages,
     - **[HTML Head Tag](html_head)**
     - **[HTML Advanced (Max's Version)](html_advanced)**
     - **[Developer tools](https://github.com/Zytronium/atlas-web_front_end/tree/master/developer_tools)**
-    - ***[CSS Advanced (Max's Version)](css_advanced)***
+    - **[CSS Advanced (Max's Version)](css_advanced)**
 - ### `WW1100`
   - *[Designer Language - Research (Max's Version)]()*
   - *[Sass & Scss]()*
