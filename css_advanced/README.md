@@ -33,7 +33,7 @@ of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [X] ​2. Header and Banner
 - [X] ​3. Quotes
 - [X] ​4. Videos list
-- [ ] ​5. Membership
+- [X] ​5. Membership
 - [ ] ​6. FAQ
 - [ ] ​7. Footer
 - [X] ​8. Make it Live!

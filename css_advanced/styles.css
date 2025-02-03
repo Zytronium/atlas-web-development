@@ -83,6 +83,11 @@ main {
     margin-bottom: -5px;
 }
 
+header h2 {
+    margin-left: 604px;
+    width: 261px;
+}
+
 .three-words {
     font-weight: 600;
     display: flex;
@@ -334,9 +339,51 @@ main {
 #membership h1 {
     font-weight: 300;
     font-size: 32px;
-    margin-top: 70px;
-    margin-left: 617px;
+    margin: 70px 589px 58px 617px;
     width: 234px;
+}
+
+#membership-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 27px;
+    margin-bottom: 85px;
+}
+
+.membership-widget {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 257px;
+    height: 153px;
+}
+
+.membership-widget h2 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    width: 106px;
+    height: 26px;
+    margin-top: 26.6px;
+    margin-bottom: 13px;
+
+}
+
+.membership-widget p {
+    text-align: center;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 26px;
+    width: 221px;
+    height: 52px;
+    margin: 0;
+}
+
+#membership button {
+    margin-bottom: 52px;
 }
 
 /* Fonts */
