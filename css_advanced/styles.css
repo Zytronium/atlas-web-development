@@ -70,6 +70,8 @@ nav a {
 /* In at least one browser (WebStorm's HTML preview thing), the
    background defaults to light gray instead of white if not set. */
 main {
+    display: flex;
+    flex-direction: column;
     background-color: white;
 }
 
@@ -189,8 +191,7 @@ main {
 }
 
 #testimonials-text .quote {
-    margin-top: 0;
-    margin-bottom: 11px;
+    margin: 0 0 11px;
 }
 
 #testimonials-text .author {
@@ -198,21 +199,108 @@ main {
     margin-bottom: 0;
 }
 
-/* Videos */
+/* Videos CSS */
+
+#videos {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
 
 #videos h1 {
     font-size: 32px;
     font-weight: 300;
+    margin: 87px 588px 75px;
+    width: 294px;
+}
+
+#videos-container {
+    display: flex;
+    width: 1228px;
+    height: 450px;
+    margin-left: 106px;
+    margin-right: 106px;
+    justify-content: center;
+    gap: 30px;
+}
+
+.video-widget {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    width: 255px;
+    height: 335px;
+}
+
+/* Because it's also like this in the figma file for some reason */
+#videos-container .video-widget:nth-child(1) {
+    margin-right: 1px;
+}
+
+.video-widget h2 {
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.video-widget > p {
+    margin-top: 7.5px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: rgba(7, 22, 41, 0.5);
+    line-height: 24px;
 }
 
 .video-thumbnail {
+    margin-left: 0 !important;
     width: 255px;
     border-radius: 5px 5px 0 0; /* Technically not needed since the image provided already has rounded corners on top */
 }
 
+.video-widget > * {
+    margin-left: 13px;
+}
+
+.video-widget div p, .video-widget h3 {
+    margin-right: 22px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--accent-color);
+}
+
+.author-info p {
+    height: 27px;
+    padding: 0;
+}
+
+.video-widget div p {
+    margin-top: 7px;
+}
+
+.author-info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 13px;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -4.5px
+}
+
+.stars img {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
 /* Currently unable to get this working. */
 .video-thumbnail::after {
-     content: "";
+     content: "url('images/play.png')";
      background: url("images/play.png") no-repeat center;
      background-size: 64px 64px;
      width: 64px;
@@ -223,6 +311,13 @@ main {
 .profile-pic {
     width: 30px;
     border-radius: 100%;
+}
+
+/* Membership CSS */
+
+#membership {
+    background-color: #071629;
+    color: white;
 }
 
 /* Fonts */
