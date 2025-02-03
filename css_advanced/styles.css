@@ -204,23 +204,24 @@ main {
 #videos {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: flex-end;
+    margin: 87px 106px;
+    width: 1228px;
+    height: 450px;
 }
 
 #videos h1 {
     font-size: 32px;
     font-weight: 300;
-    margin: 87px 588px 75px;
+    margin-left: 482px;
+    margin-bottom: 75px;
     width: 294px;
 }
 
 #videos-container {
     display: flex;
-    width: 1228px;
-    height: 450px;
-    margin-left: 106px;
-    margin-right: 106px;
     justify-content: center;
+    align-items: center;
     gap: 30px;
 }
 
@@ -328,6 +329,14 @@ main {
 #membership {
     background-color: #071629;
     color: white;
+}
+
+#membership h1 {
+    font-weight: 300;
+    font-size: 32px;
+    margin-top: 70px;
+    margin-left: 617px;
+    width: 234px;
 }
 
 /* Fonts */

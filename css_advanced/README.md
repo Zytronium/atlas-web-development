@@ -11,20 +11,28 @@ continuing from the last project, which replicated just the HTML.
 Visit the website [here](https://zytronium.github.io/atlas-web-development/css_advanced/).
 
 Note: This website is designed to exactly match the Figma file **at the same
-display size**, which is 1440x760px. If you do not have the device width set to
-1440px, some things **will** look off.
+display width**, which is 1440px. If you do not have the device width set to
+this, some things **will** look off.
+
+This is how it should look at 1440px width:
+
+<img src="images/Display_Example_1.png" alt="Example at 1440px Width" width="512">
+
+And this is how it would look at my monitor's resolution, 2560x1440px:
+
+<img src="images/Display_Example_2.png" alt="Example at 2560px Width" width="512">
 
 ---
 
 ### Tasks checklist:
-[//]: # ("​" comes before every number because otherwise the
+[//]: # ("​" comes before every number because otherwise, the
 numbers will be formatted like "i, ii, iii, iv, etc." instead
-of "1, 2, 3, 4, etc." "​" is a zero-width space)
+of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [X] ​0. README and objectives!
 - [X] ​1. Import the style
 - [X] ​2. Header and Banner
 - [X] ​3. Quotes
-- [ ] ​4. Videos list
+- [X] ​4. Videos list
 - [ ] ​5. Membership
 - [ ] ​6. FAQ
 - [ ] ​7. Footer
