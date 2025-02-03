@@ -110,10 +110,14 @@ header h2 {
 #pros {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
     text-align: center;
     justify-content: center;
-    gap: 131px;
+    gap: 139px;
+}
+
+/* bring the gap down to 131px for the middle, since it's this way on Figma too */
+#pros div:nth-child(2) {
+    margin-right: -7px;
 }
 
 #pros div {
@@ -429,6 +433,38 @@ header h2 {
 
 footer {
     background-color: var(--secondary-color);
+    padding: 90px 240px 39px 165px;
+}
+
+footer .logo {
+    margin-top: 5px;
+    margin-bottom: 65px;
+}
+
+#links {
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 736px
+}
+
+.social-links {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+#copyright {
+    opacity: 0.35;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 300;
+    color: white;
+    width: 96px;
+    height: 15px;
+    margin-left: 507px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 /* Fonts */

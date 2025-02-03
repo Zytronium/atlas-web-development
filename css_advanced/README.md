@@ -22,6 +22,9 @@ And this is how it would look at my monitor's resolution, 2560x1440px:
 
 <img src="images/Display_Example_2.png" alt="Example at 2560px Width" width="512">
 
+I also noticed some things in the Figma are slightly off-center, so I kept mine
+that way on purpose, even though it hurt to ignore it. 
+
 ---
 
 ### Tasks checklist:
@@ -34,9 +37,9 @@ of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [X] ​3. Quotes
 - [X] ​4. Videos list
 - [X] ​5. Membership
-- [ ] ​6. FAQ
-- [ ] ​7. Footer
+- [X] ​6. FAQ
+- [X] ​7. Footer
 - [X] ​8. Make it Live!
 
 
-- [ ] **Everything Done ✓**
+- [X] **Everything Done ✓**
