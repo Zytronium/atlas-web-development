@@ -10,6 +10,10 @@ continuing from the last project, which replicated just the HTML.
 
 Visit the website [here](https://zytronium.github.io/atlas-web-development/css_advanced/).
 
+Note: This website is designed to exactly match the Figma file **at the same
+display size**, which is 1440x760px. If you do not have the device width set to
+1440px, some things **will** look off.
+
 ---
 
 ### Tasks checklist:
