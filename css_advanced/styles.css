@@ -37,8 +37,8 @@ header h2 {
     text-align: center;
     font-weight: 300;
     font-size: 32px;
-    margin-top: 168px;
-    margin-bottom: 87px;
+    width: 261px;
+    margin: 168px auto 87px;
 }
 
 button {
@@ -83,11 +83,6 @@ main {
     gap: 702px;
     padding-top: 35px;
     margin-bottom: -5px;
-}
-
-header h2 {
-    margin-left: 604px;
-    width: 261px;
 }
 
 .three-words {
@@ -180,7 +175,7 @@ header h2 {
 #testimonials-container {
     display: flex;
     flex-direction: row;
-    margin: 108px 237px 124px 260px;
+    margin: 108px auto 124px;
 }
 
 #testimonials-container img {
@@ -216,7 +211,7 @@ header h2 {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    margin: 87px 106px;
+    margin: 87px auto;
     width: 1228px;
     height: 450px;
 }
@@ -345,7 +340,7 @@ header h2 {
 #membership h1 {
     font-weight: 300;
     font-size: 32px;
-    margin: 70px 589px 58px 617px;
+    margin: 70px auto 58px auto;
     width: 234px;
 }
 
@@ -395,20 +390,21 @@ header h2 {
 /* F.A.Q. CSS */
 
 #faq {
-    margin: 67px 271px 84px 249px;
+    margin: 67px auto 84px;
 }
 
 #faq h1 {
     font-size: 60px;
     font-weight: 300;
     text-align: center;
-    margin: 0 377px 74px 407px;
+    margin: 0 auto 74px;
 }
 
 #faq-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* IDK how this works, I just used autocomplete and it worked */
     gap: 220px;
+    width: 920px;
     height: 558px;
 }
 
@@ -433,7 +429,8 @@ header h2 {
 
 footer {
     background-color: var(--secondary-color);
-    padding: 90px 240px 39px 165px;
+    padding-top: 90px;
+    padding-bottom: 39px;
 }
 
 footer .logo {
@@ -445,7 +442,8 @@ footer .logo {
     margin: 0;
     display: flex;
     flex-direction: row;
-    gap: 736px
+    justify-content: center;
+    gap: 50%;
 }
 
 .social-links {
@@ -462,9 +460,7 @@ footer .logo {
     color: white;
     width: 96px;
     height: 15px;
-    margin-left: 507px;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0 auto;
 }
 
 /* Fonts */

@@ -10,21 +10,6 @@ continuing from the last project, which replicated just the HTML.
 
 Visit the website [here](https://zytronium.github.io/atlas-web-development/css_advanced/).
 
-Note: This website is designed to exactly match the Figma file **at the same
-display width**, which is 1440px. If you do not have the device width set to
-this, some things **will** look off.
-
-This is how it should look at 1440px width:
-
-<img src="images/Display_Example_1.png" alt="Example at 1440px Width" width="512">
-
-And this is how it would look at my monitor's resolution, 2560x1440px:
-
-<img src="images/Display_Example_2.png" alt="Example at 2560px Width" width="512">
-
-I also noticed some things in the Figma are slightly off-center, so I kept mine
-that way on purpose, even though it hurt to ignore it. 
-
 ---
 
 ### Tasks checklist:
