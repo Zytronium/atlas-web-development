@@ -4,6 +4,9 @@ Primary repository for T3 Full-Stack Web Development at Atlas School.
 This repository covers the topics I will be working on during my time in T3
 (and possibly T4 and 5?) Full-Stack Web Development at Atlas School.
 
+Other repos commonly used during this trimester:
+- [atlas-web_front_end](https://github.com/Zytronium/atlas-web_front_end)
+
 ---
 If you are another student reading this, and are here to copy/cheat, here's
 a good video I uploaded that you should watch: https://www.youtube.com/watch?v=pyoURHR-g4U ; )
@@ -42,8 +45,8 @@ not viewing this from Pages,
     - **[Developer tools](https://github.com/Zytronium/atlas-web_front_end/tree/master/developer_tools)**
     - **[CSS Advanced (Max's Version)](css_advanced)**
 - ### `WW1100`
-  - *[Designer Language - Research (Max's Version)]()*
-  - *[Sass & Scss]()*
+  - ***[Designer Language - Research (Max's Version)]()*** (no repo; done with Google Docs)
+  - ***[Sass & Scss](https://github.com/Zytronium/atlas-web_front_end/tree/master/sass_scss)***
   - *[Flexbox]()*
 
 ---
