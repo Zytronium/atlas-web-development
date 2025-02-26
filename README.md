@@ -45,13 +45,15 @@ not viewing this from Pages,
     - **[Developer tools](https://github.com/Zytronium/atlas-web_front_end/tree/master/developer_tools)**
     - **[CSS Advanced (Max's Version)](css_advanced)**
 - ### `WW1100`
-  - **[Designer Language - Research (Max's Version)]()** (no repo; done with Google Docs)
+  - ### **[Designer Language - Research (Max's Version)]()** (no repo; done with Google Docs)
   - **[Sass & Scss](https://github.com/Zytronium/atlas-web_front_end/tree/master/sass_scss)**
   - **[Flexbox](https://github.com/Zytronium/atlas-web_front_end/tree/master/flexbox)**
 - ### `WW1200`
-  - ***[Designer Language - Prototype (Max's Version)]()*** (no repo; done with Google Docs and Figma)
+  - ### ***[Designer Language - Prototype (Max's Version)]()*** (no repo; done with Google Docs and Figma)
   - **[Accessibility](https://github.com/Zytronium/atlas-web_front_end/tree/master/accessibility)**
-  - ***[Forms](https://github.com/Zytronium/atlas-web_front_end/tree/master/form)***
+  - **[Forms](https://github.com/Zytronium/atlas-web_front_end/tree/master/form)**
+  - ### ***[Designer Language - Validate (Max's Version)]()*** (no repo; done with Google Docs and Figma)
+  - ### ***[Implement a Design from Scratch (Max's Version)](https://github.com/Zytronium/atlas-headphones)***
 
 ---
 ###### <sup><sub>There's something really satisfying about a ReadMe like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
