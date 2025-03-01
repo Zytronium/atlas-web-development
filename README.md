@@ -1,5 +1,5 @@
 # Atlas Web Development - Atlas School Full-Stack Web Development projects.
-Primary repository for T3 Full-Stack Web Development at Atlas School.
+One of the primary repositories for T3 Full-Stack Web Development at Atlas School.
 
 This repository covers the topics I will be working on during my time in T3
 (and possibly T4 and 5?) Full-Stack Web Development at Atlas School.
@@ -49,11 +49,16 @@ not viewing this from Pages,
   - **[Sass & Scss](https://github.com/Zytronium/atlas-web_front_end/tree/master/sass_scss)**
   - **[Flexbox](https://github.com/Zytronium/atlas-web_front_end/tree/master/flexbox)**
 - ### `WW1200`
-  - ### ***[Designer Language - Prototype (Max's Version)]()*** (no repo; done with Google Docs and Figma)
+  - ### **[Designer Language - Prototype (Max's Version)]()** (no repo; done with Google Docs and Figma)
   - **[Accessibility](https://github.com/Zytronium/atlas-web_front_end/tree/master/accessibility)**
   - **[Forms](https://github.com/Zytronium/atlas-web_front_end/tree/master/form)**
-  - ### ***[Designer Language - Validate (Max's Version)]()*** (no repo; done with Google Docs and Figma)
-  - ### ***[Implement a Design from Scratch (Max's Version)](https://github.com/Zytronium/atlas-headphones)***
+  - ### **[Designer Language - Validate (Max's Version)]()** (no repo; done with Google Docs and Figma)
+  - ### **[Implement a Design from Scratch (Max's Version)](https://github.com/Zytronium/atlas-headphones)**
+- ### `WP1000`
+  - ***[ES6 Basics](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_basic)***
+  - *[ES6 classes]()*
+  - *[ES6 data manipulation]()*
+  - *[ES6 Promises]()*
 
 ---
 ###### <sup><sub>There's something really satisfying about a ReadMe like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
