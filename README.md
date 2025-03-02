@@ -6,6 +6,7 @@ This repository covers the topics I will be working on during my time in T3
 
 Other repos commonly used during this trimester:
 - [atlas-web_front_end](https://github.com/Zytronium/atlas-web_front_end)
+- [atlas-web_back_end](https://github.com/Zytronium/atlas-web_back_end)
 
 ---
 If you are another student reading this, and are here to copy/cheat, here's
@@ -55,8 +56,8 @@ not viewing this from Pages,
   - ### **[Designer Language - Validate (Max's Version)]()** (no repo; done with Google Docs and Figma)
   - ### **[Implement a Design from Scratch (Max's Version)](https://github.com/Zytronium/atlas-headphones)**
 - ### `WP1000`
-  - ***[ES6 Basics](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_basic)***
-  - *[ES6 classes]()*
+  - **[ES6 Basics](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_basic)**
+  - ***[ES6 classes](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_classes)***
   - *[ES6 data manipulation]()*
   - *[ES6 Promises]()*
 
