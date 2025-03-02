@@ -57,8 +57,8 @@ not viewing this from Pages,
   - ### **[Implement a Design from Scratch (Max's Version)](https://github.com/Zytronium/atlas-headphones)**
 - ### `WP1000`
   - **[ES6 Basics](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_basic)**
-  - ***[ES6 classes](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_classes)***
-  - *[ES6 data manipulation]()*
+  - **[ES6 classes](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_classes)**
+  - ***[ES6 data manipulation](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_data_manipulation)***
   - *[ES6 Promises]()*
 
 ---
