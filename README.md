@@ -45,21 +45,31 @@ not viewing this from Pages,
     - **[HTML Advanced (Max's Version)](html_advanced)**
     - **[Developer tools](https://github.com/Zytronium/atlas-web_front_end/tree/master/developer_tools)**
     - **[CSS Advanced (Max's Version)](css_advanced)**
-- ### `WW1100`
-  - ### **[Designer Language - Research (Max's Version)]()** (no repo; done with Google Docs)
+- ### `WW1100` <small style="font-size: small;">(no repos; done with Google Docs and Figma)</small>
+  - ### **[Designer Language - Research (Max's Version)]()**
+  - ### **[Designer Language - Prototype (Max's Version)]()**
+  - ### **[Designer Language - Validate (Max's Version)]()** 
+- ### `WW1200`
   - **[Sass & Scss](https://github.com/Zytronium/atlas-web_front_end/tree/master/sass_scss)**
   - **[Flexbox](https://github.com/Zytronium/atlas-web_front_end/tree/master/flexbox)**
-- ### `WW1200`
-  - ### **[Designer Language - Prototype (Max's Version)]()** (no repo; done with Google Docs and Figma)
   - **[Accessibility](https://github.com/Zytronium/atlas-web_front_end/tree/master/accessibility)**
   - **[Forms](https://github.com/Zytronium/atlas-web_front_end/tree/master/form)**
-  - ### **[Designer Language - Validate (Max's Version)]()** (no repo; done with Google Docs and Figma)
   - ### **[Implement a Design from Scratch (Max's Version)](https://github.com/Zytronium/atlas-headphones)**
 - ### `WP1000`
   - **[ES6 Basics](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_basic)**
   - **[ES6 classes](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_classes)**
   - ***[ES6 data manipulation](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_data_manipulation)***
   - *[ES6 Promises]()*
+- ### `WP1100`
+  - *[Bootstrap (Max's Version)]()*
+  - *[Implement a Design with Bootstrap (Max's Version)]()*
+- ### `WP1200`
+  - *[Javascript Advanced (Max's Version)]()*
+  - *[jQuery Advanced (Max's Version)]()*
+  - *[Cookies and Local Storage (Max's Version)]()*
+- ### `WD1300`
+  - *[Build a Web App in JavaScript (Max's Version)]()*
+  - ### *[Custom Frontend From Scratch]()*
 
 ---
 ###### <sup><sub>There's something really satisfying about a ReadMe like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
