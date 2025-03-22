@@ -1,4 +1,4 @@
-# Atlas Web Development - Atlas School Full-Stack Web Development projects.
+# Atlas Web Development - Atlas School Full-Stack Web Development Projects
 One of the primary repositories for T3 Full-Stack Web Development at Atlas School.
 
 This repository covers the topics I will be working on during my time in T3
@@ -26,7 +26,14 @@ a good video I uploaded that you should watch: https://www.youtube.com/watch?v=p
         - ***[Project part 2 (in progress)]()***
         - *[Project part 3 (unstarted)]()*
 
-Projects are in chronological order, and are separated by courses, but not by sprints.
+Projects are (usually) in chronological order, and are separated by courses,
+but not by sprints.
+
+<small style="color: lightgrey">
+WW1100 and WW1200 were done at the same time, so it is impossible to sort these
+both in chronological order and by course. Therefore, they are sorted by course
+first and then by chronological order inside the course.
+</small>
 
 </details>
 
@@ -58,11 +65,11 @@ not viewing this from Pages,
 - ### `WP1000`
   - **[ES6 Basics](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_basic)**
   - **[ES6 classes](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_classes)**
-  - ***[ES6 data manipulation](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_data_manipulation)***
-  - *[ES6 Promises]()*
+  - **[ES6 data manipulation](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_data_manipulation)**
+  - **[ES6 Promises](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_promise)**
 - ### `WP1100`
-  - *[Bootstrap (Max's Version)]()*
-  - *[Implement a Design with Bootstrap (Max's Version)]()*
+  - ***[Bootstrap (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Bootstrap)***
+  - *[Implement a Design with Bootstrap (Max's Version)](https://github.com/Zytronium/atlas-bootstrap)*
 - ### `WP1200`
   - *[Javascript Advanced (Max's Version)]()*
   - *[jQuery Advanced (Max's Version)]()*
@@ -72,6 +79,6 @@ not viewing this from Pages,
   - ### *[Custom Frontend From Scratch]()*
 
 ---
-###### <sup><sub>There's something really satisfying about a ReadMe like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
+###### <sup><sub>There's something really satisfying about a Readme like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
 
 ---
