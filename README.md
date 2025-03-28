@@ -68,11 +68,11 @@ not viewing this from Pages,
   - **[ES6 data manipulation](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_data_manipulation)**
   - **[ES6 Promises](https://github.com/Zytronium/atlas-web_back_end/tree/master/ES6_promise)**
 - ### `WP1100`
-  - ***[Bootstrap (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Bootstrap)***
-  - *[Implement a Design with Bootstrap (Max's Version)](https://github.com/Zytronium/atlas-bootstrap)*
+  - **[Bootstrap (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Bootstrap)**
+  - **[Implement a Design with Bootstrap (Max's Version)](https://github.com/Zytronium/atlas-bootstrap)**
 - ### `WP1200`
-  - *[Javascript Advanced (Max's Version)]()*
-  - *[jQuery Advanced (Max's Version)]()*
+  - ***[Javascript Advanced (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Javascript_advanced)***
+  - *[jQuery Advanced (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/JQuery_advanced)*
   - *[Cookies and Local Storage (Max's Version)]()*
 - ### `WD1300`
   - *[Build a Web App in JavaScript (Max's Version)]()*
