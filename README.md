@@ -5,8 +5,8 @@ This repository covers the topics I will be working on during my time in T3
 (and possibly T4 and 5?) Full-Stack Web Development at Atlas School.
 
 Other repos commonly used during this trimester:
-- [atlas-web_front_end](https://github.com/Zytronium/atlas-web_front_end)
-- [atlas-web_back_end](https://github.com/Zytronium/atlas-web_back_end)
+- [atlas-web_front_end](https://github.com/Zytronium/atlas-web_front_end) (9 projects)
+- [atlas-web_back_end](https://github.com/Zytronium/atlas-web_back_end) (4 projects)
 
 ---
 If you are another student reading this, and are here to copy/cheat, here's
@@ -71,12 +71,12 @@ not viewing this from Pages,
   - **[Bootstrap (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Bootstrap)**
   - **[Implement a Design with Bootstrap (Max's Version)](https://github.com/Zytronium/atlas-bootstrap)**
 - ### `WP1200`
-  - ***[Javascript Advanced (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Javascript_advanced)***
-  - *[jQuery Advanced (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/JQuery_advanced)*
-  - *[Cookies and Local Storage (Max's Version)]()*
+  - **[Javascript Advanced (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Javascript_advanced)**
+  - **[jQuery Advanced (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/JQuery_advanced)**
+  - ***[Cookies and Local Storage (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Cookies_local_storage)***
 - ### `WD1300`
   - *[Build a Web App in JavaScript (Max's Version)]()*
-  - ### *[Custom Frontend From Scratch]()*
+  - ### *[Custom Frontend From Scratch]()* <small style="font-size: small;">(Final Project)</small>
 
 ---
 ###### <sup><sub>There's something really satisfying about a Readme like this one. [**_~~`I love formatting`~~_**.](https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#introduction)</sub></sup>
