@@ -75,8 +75,8 @@ not viewing this from Pages,
   - **[jQuery Advanced (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/JQuery_advanced)**
   - **[Cookies and Local Storage (Max's Version)](https://github.com/Zytronium/atlas-web_front_end/tree/master/Cookies_local_storage)**
 - ### `WD1300`
-  - *[Build a Web App in JavaScript (Max's Version)]()*
-  - ### *[Custom Frontend From Scratch]()* <small style="font-size: small;">(Final Project)</small>
+  - ***[Build a Web App in JavaScript (Max's Version)](https://github.com/Zytronium/atlas-smiling-school-javascript)***
+  - ### ***[Custom Frontend From Scratch](https://github.com/Zytronium/soundCanvas)*** <small style="font-size: small;">(Final Project)</small>
 
 ---
 
